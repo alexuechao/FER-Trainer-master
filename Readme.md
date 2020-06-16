@@ -13,7 +13,7 @@ A CNN based pytorch implementation on facial expression recognition.
 
 获取方式：
 ```
-git clone git@gitlab.xiaomocloud.cn:shixuechao/Facial-Expression-Recognition-master.git
+git clone https://github.com/alexuechao/FER-Trainer-master.git
 ```
 ## labels ##
 labels: 0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral
